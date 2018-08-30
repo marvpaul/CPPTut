@@ -4,7 +4,7 @@
 //Defining a namespace for our program
 using namespace std; 
 
-int main(int argc, char** argv){
+int main(int argc, char *argv[]){
     cout << "Hello World"; 
 
     //Return zero means our program has executed sucessfully
